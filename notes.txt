@@ -3,3 +3,5 @@ Put something in here about missing values -- probably at the beginning.
 Also something about methods vs functions (vs attributes)  
 
 Also make sure that you explain that packages can be built on top of other packages
+
+Should probably go over conditional logic pretty early on in the course. 
