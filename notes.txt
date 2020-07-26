@@ -1,0 +1,3 @@
+Put something in here about missing values -- probably at the beginning.
+
+Also something about methods vs functions (vs attributes)  
