@@ -1,4 +1,4 @@
-# First Steps with Python for Spreadsheet Users
+# Python for Excel Users: First Steps
 
 
 Spreadsheets are the tool of choice for data analysis and reporting among a majority of business professionals, who are well-acquainted with common data processes like sorting, filtering, and aggregation. 
