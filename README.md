@@ -1,3 +1,5 @@
+# This repo has been deprecated and moved to [O'Reilly's Binderhub repo](https://resources.oreilly.com/binderhub/python-for-excel-users-first-steps).
+
 # Python for Excel Users: First Steps
 
 ## To run this repo interactively, click on the below icon. 
