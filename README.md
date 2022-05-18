@@ -2,8 +2,8 @@
 
 # Python for Excel Users: First Steps
 
-## To run this repo interactively, click on the below icon. 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/summerofgeorge/olt-python-for-excel-users/master)
+<!--- ## To run this repo interactively, click on the below icon. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/summerofgeorge/olt-python-for-excel-users/master) ---->
 
 Spreadsheets are the tool of choice for data analysis and reporting among a majority of business professionals, who are well-acquainted with common data processes like sorting, filtering, and aggregation. 
 
