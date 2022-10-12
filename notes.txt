@@ -1,5 +1,0 @@
-Get methods right
-
-Make a Pivot gif
-
-Resize the boxplot chart
